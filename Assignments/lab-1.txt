@@ -1,0 +1,11 @@
+
+
+Please follow the link given and do all labs of text preprocessing...till lemmatization in kaggle notebook... you may use the video link for help
+
+
+https://www.kaggle.com/code/suvroo/complete-nlp-pipeline
+
+https://drive.google.com/drive/folders/1cCGWwQst2DEODK4iBD2iJGnDvSm0KlcC?usp=sharing
+
+
+

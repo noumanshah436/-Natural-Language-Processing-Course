@@ -1,0 +1,44 @@
+https://www.youtube.com/playlist?list=PLKnIA16_RmvZo7fp5kkIth6nRTeQQsjfX
+
+Natural Language Processing(NLP)
+
+
+
+-----
+
+Natural Language Processing
+by AKAdemy
+
+https://www.youtube.com/playlist?list=PLfng5rv4gTmqfLtZcK85wDXDTOgZn0132
+
+
+---
+
+CS124 - Full Course   (Good)
+
+by From Languages to Information 
+
+
+https://www.youtube.com/playlist?list=PLaZQkZp6WhWyvdiP49JG-rjyTPck_hvEu
+
+---
+
+N-gram Language Modeling | Theory, Math, Code
+
+https://github.com/oppasource/Learn-With-Yash-Agrawal/blob/main/General_NLP/N-gram_Language_Modeling/N-gram%20Language%20Modeling.pdf
+
+https://www.youtube.com/watch?v=Vc2C1NZkH0E
+
+
+---
+
+
+
+https://www.kaggle.com/code/adamharrisonnn/assignment-3-minimum-edit-distance-and-n-grams
+
+
+********************************
+
+What is K Nearest Neighbors? | KNN Explained in Hindi | Simple Overview in 1 Video | CampusX
+
+https://www.youtube.com/watch?v=abnL_GUGub4&t=64s

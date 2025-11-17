@@ -1,0 +1,11 @@
+Lab Assignment 2-3
+
+
+
+
+https://www.kaggle.com/code/adamharrisonnn/assignment-3-minimum-edit-distance-and-n-grams
+https://books.google.com/ngrams/
+
+
+please follow above link and practice what we have learnt in class
+use google n-gram viewer to see relative frequency of  n-grams of your choice

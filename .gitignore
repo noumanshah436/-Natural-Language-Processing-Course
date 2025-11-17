@@ -1,0 +1,21 @@
+
+
+
+.~lock.*#
+*.lock
+
+
+# --- TEMP / SWAP FILES ---
+*.swp
+*.swo
+*.tmp
+*.temp
+*~
+
+# --- PYTHON CACHE ---
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+
+Slides
