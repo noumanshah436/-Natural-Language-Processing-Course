@@ -1,0 +1,11 @@
+Word2Vec is a technique in natural language processing that converts words into numerical vectors, or "embeddings," to capture their meaning and relationships based on context. Developed by Google, it uses a neural network to learn these dense, meaningful representations from large text datasets, allowing for mathematical operations between words, such as "king - man + woman = queen". Word2Vec uses two main architectures, Continuous Bag-of-Words (CBOW) and Skip-gram, to learn these embeddings. 
+
+
+
+Word2vec Complete Tutorial | CBOW and Skip-gram | Game of Thrones Word2vec
+
+https://www.youtube.com/watch?v=DDfLc5AHoJI&t=57s
+
+
+GPT prompt:
+https://chatgpt.com/c/69300b63-5630-8323-bf7f-cdc91affff99

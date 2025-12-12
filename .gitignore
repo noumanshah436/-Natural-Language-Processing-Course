@@ -19,3 +19,8 @@ __pycache__
 *.pyd
 
 Slides
+
+RNN-and-Attention
+Transformers
+
+IMDB_Dataset.csv

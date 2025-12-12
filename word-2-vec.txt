@@ -1,0 +1,12 @@
+
+
+
+
+Word2vec Complete Tutorial | CBOW and Skip-gram | Game of Thrones Word2vec
+
+https://www.youtube.com/watch?v=DDfLc5AHoJI&t=57s
+
+
+https://github.com/campusx-official/game-of-thrones-word2vec/blob/main/game-of-thrones-word2vec.ipynb
+
+https://colab.research.google.com/drive/1aes3A6AumwokaSmdHL4F477Eb-PBdWLD?usp=sharing
