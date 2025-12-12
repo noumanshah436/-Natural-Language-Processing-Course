@@ -35,7 +35,7 @@ async def main():
         stream=False,
     )
 
-    print("✅ Model warmed. Starting classification...\n")
+    print("Model warmed. Starting classification...\n")
 
     predictions = []
     start = time.time()
@@ -94,7 +94,7 @@ async def main():
     print(f"Total correct = {correct}")
 
     print(f"Accuracy: {correct/100:.4f}")
-    print(f"📄 Logs saved to {LOG_FILE}")
+    print(f"Logs saved to {LOG_FILE}")
 
 
 asyncio.run(main())

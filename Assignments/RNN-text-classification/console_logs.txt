@@ -106,4 +106,4 @@ Starting persistent Ollama session...
 Finished all 100 reviews in: 1800.05 sec
 Total correct = 86
 Accuracy: 0.8600
-📄 Logs saved to sentiment_logs.txt
+Logs saved to sentiment_logs.txt
