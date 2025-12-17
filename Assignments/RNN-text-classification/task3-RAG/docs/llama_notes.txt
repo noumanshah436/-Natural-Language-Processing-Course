@@ -1,0 +1,7 @@
+LLaMA is a large language model developed by Meta and is based on the transformer architecture.
+Transformers use self-attention mechanisms that allow the model to process entire sequences
+in parallel. This enables better understanding of long-range dependencies in text.
+
+LLaMA models are pretrained on massive text corpora and can perform tasks such as question
+answering, summarization, and text generation. However, these models may hallucinate when
+asked questions outside their training data or when precise factual answers are required.

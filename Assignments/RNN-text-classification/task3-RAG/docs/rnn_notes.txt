@@ -1,0 +1,11 @@
+Recurrent Neural Networks (RNNs) are a class of neural networks designed for sequential data.
+Unlike feedforward networks, RNNs maintain a hidden state that captures information from
+previous time steps. This makes them suitable for tasks such as sentiment analysis, language
+modeling, and speech recognition.
+
+However, traditional RNNs suffer from the vanishing gradient problem, making it difficult to
+learn long-term dependencies. To address this issue, architectures like LSTM and GRU were
+introduced. These models use gating mechanisms to control the flow of information.
+
+RNNs are computationally cheaper than large transformer models but usually provide lower
+accuracy on complex language tasks.

@@ -1,0 +1,36 @@
+
+Lab Exercise 3 - Build a Simple RAG System (Retrieval +
+LLaMA)
+Goal
+Build a Question-Answer system that uses your documents + LLaMA.
+What you will do
+
+Step 1 - Prepare your documents
+Collect 3–5 text files (notes, PDFs converted to text).
+Break them into small chunks (e.g., 200–300 words).
+
+Step 2 - Create embeddings
+Use SentenceTransformers:
+from sentence_transformers import SentenceTransformer
+model = SentenceTransformer("all-MiniLM-L6-v2")
+embeddings = model.encode(chunks, convert_to_numpy=True)
+
+Step 3 - Build a simple similarity search
+For a user question:
+● Convert question into embedding
+● Compare with chunk embeddings
+● Retrieve top 3 relevant chunks
+
+Step 4 - Build the RAG prompt
+Send this to LLaMA:
+Use only the following context to answer the question:
+<context from top chunks>
+Question: <user question>
+Answer:
+
+Step 5 - Test RAG vs No-RAG
+Create 10 questions based on your documents.
+Compare:
+Method Correct? Notes
+LLaMA alone ? May hallucinate
+LLaMA + RAG ? More accurate
