@@ -1,0 +1,39 @@
+Sure! Here’s a simple explanation for each question 👇
+
+---
+
+Why does smoothing improve perplexity on unseen text?
+
+Smoothing adds a small probability to words or word pairs that the model never saw during training.
+Without smoothing, any unseen word pair would get probability zero, which makes perplexity infinite.
+By giving a small non-zero probability to unseen words, smoothing makes the model more general and helps it handle new or rare sentences better.
+✅ In short: Smoothing prevents zero probabilities → improves performance on new text.
+
+---
+
+How does perplexity relate to branching probability of a language model?
+
+Perplexity tells us how confused a language model is when predicting the next word.
+It’s like asking: “On average, how many choices does the model consider possible for each word?”
+A lower perplexity means the model is more confident (less confused).
+
+Low perplexity → few likely next words → better model
+High perplexity → many possible next words → weaker model
+
+---
+
+Why might Naive Bayes misclassify “not good”?
+
+Naive Bayes treats each word independently.
+It sees the word “good” (positive) and ignores the effect of “not” before it.
+So it might classify “not good” as positive, even though it means negative.
+✅ In short: NB doesn’t understand word order or negation — it looks only at individual words.
+
+---
+
+How can we use a held-out corpus to estimate interpolation weights between unigrams, bigrams, trigrams?
+
+A held-out corpus is a small set of data not used in training.
+We use it to test how well different combinations of unigram, bigram, and trigram probabilities perform.
+By adjusting the weights (λ₁, λ₂, λ₃) for each model on this held-out data, we find the mix that gives the lowest perplexity.
+✅ In short: Use extra data to tune how much trust to give to unigram, bigram, and trigram models for better predictions.
