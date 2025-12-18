@@ -1,0 +1,13 @@
+XYZ Corp - Q3 2025 Revenue Report
+
+- Total Revenue: $120 million (up 15% from Q2 2025)
+- Revenue by Region:
+  - North America: $60 million
+  - Europe: $35 million
+  - Asia-Pacific: $25 million
+- Top Products:
+  - Product A: $50 million
+  - Product B: $40 million
+  - Product C: $30 million
+- Net Profit: $25 million (21% margin)
+- Key Notes: The increase in revenue was primarily driven by the launch of Product A in North America and strong sales of Product B in Europe.

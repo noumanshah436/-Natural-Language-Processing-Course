@@ -1,0 +1,24 @@
+Solar energy is a renewable source of power that comes from the sun. It is captured using
+solar panels, which are made up of photovoltaic (PV) cells. These cells convert sunlight
+directly into electricity through a process known as the photovoltaic effect. When sunlight
+hits the PV cells, it excites electrons and generates an electric current.
+
+One of the main advantages of solar energy is that it produces electricity without releasing
+greenhouse gases during operation. This makes it environmentally friendly and helps reduce
+air pollution and dependence on fossil fuels. Solar energy systems also have low operating
+costs after installation because sunlight is free and maintenance requirements are minimal.
+
+Solar power systems can be installed at different scales. Small residential systems are
+commonly placed on rooftops to provide electricity for homes, while large-scale solar farms
+generate power for cities and industrial use. Solar panels can be connected to the electrical
+grid or combined with batteries in off-grid systems.
+
+However, solar energy has limitations. It depends heavily on sunlight availability and is
+less effective during cloudy weather or at night. Seasonal changes can also affect energy
+production. To address these challenges, energy storage systems such as batteries are often
+used to store excess electricity generated during sunny periods.
+
+Despite its limitations, solar energy continues to grow due to technological improvements.
+Advances in panel efficiency, battery storage, and smart grid integration are making solar
+power more reliable and accessible. As a result, solar energy plays an increasingly important
+role in the global transition toward sustainable energy sources.

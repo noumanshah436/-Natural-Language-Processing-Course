@@ -1,0 +1,45 @@
+Question 1: What was the name of Muhammad Ali Jinnah's father?
+Answer 1: Muhammad Ali Jinnah's father was Jinnahbhai Poonja.
+--------------------------------------------------------------------------------
+Question 2: When and where was Muhammad Ali Jinnah born, and what title is he commonly known by in Pakistan?
+Answer 2: Muhammad Ali Jinnah was born on December 25, 1876, in Karachi, British India. He is widely known in Pakistan as Quaid-i-Azam, meaning “Great Leader,” and is regarded as the father of the nation.
+--------------------------------------------------------------------------------
+Question 3: What was the Lahore Resolution of 1940, and what major outcome did it lead to?
+Answer 3: The Lahore Resolution of 1940 was a resolution adopted by the Muslim League under Muhammad Ali Jinnah's leadership, calling for the creation of independent states for Muslims in the Indian subcontinent. This demand eventually led to the establishment of Pakistan in 1947.
+--------------------------------------------------------------------------------
+Question 4: What device is used to capture solar energy and convert it into electricity?
+Answer 4: The photovoltaic (PV) cells in solar panels are used to capture solar energy and convert it into electricity through the photovoltaic effect.
+--------------------------------------------------------------------------------
+Question 5: Why are batteries often used in solar energy systems?
+Answer 5: Batteries are often used in solar energy systems to store excess electricity generated during sunny periods. This allows the system to continue producing power even when sunlight is not available, such as at night or during cloudy weather.
+--------------------------------------------------------------------------------
+Question 6: When did World War II begin, and which countries declared war on Germany in response to the invasion of Poland?
+Answer 6: World War II began on September 1, 1939, when Germany, led by Adolf Hitler, invaded Poland. In response to this invasion, Britain and France declared war on Germany.
+--------------------------------------------------------------------------------
+Question 7: Which two Japanese cities were targeted by atomic bombs, and what was the outcome of these bombings?
+Answer 7: The two Japanese cities targeted by atomic bombs were Hiroshima and Nagasaki. The United States dropped atomic bombs on these cities, leading to Japan's surrender on August 15, 1945, effectively ending World War II.
+--------------------------------------------------------------------------------
+Question 8: What are the three main types of volcanoes, and give one example of each type?
+Answer 8: The three main types of volcanoes are:
+
+1. **Shield volcanoes:** These have broad, gentle slopes and are primarily formed by low-viscosity lava that can flow over long distances.
+   Example: Mauna Loa in Hawaii.
+
+2. **Stratovolcanoes (composite volcanoes):** These are steep-sided, symmetrical cones formed by alternating layers of lava flows, ash, and volcanic rocks.
+   Example: Mount Fuji in Japan.
+
+3. **Cinder cone volcanoes:** These are smaller, steep-sided cones built from volcanic fragments, mostly ash and cinders, that accumulate around a vent.
+   Example: Paricutin in Mexico.
+--------------------------------------------------------------------------------
+Question 9: Name two famous volcanic eruptions mentioned in the text and describe one major consequence of each.
+Answer 9: Two famous volcanic eruptions mentioned in the text are:
+
+1. **Krakatoa (1883)**: One major consequence was the generation of massive tsunamis that affected several islands in the Indian Ocean, causing widespread destruction and loss of life.
+
+2. **Mount Vesuvius (79 CE)**: One major consequence was the destruction of the Roman cities of Pompeii and Herculaneum, which were buried under volcanic ash and pumice when the volcano erupted.
+--------------------------------------------------------------------------------
+Question 10: What is the main advantage of using a Retrieval-Augmented Generation (RAG) system compared to relying solely on a language model?
+Answer 10: The context does not mention the advantages or disadvantages of RAG systems. It only provides information about what RAG systems are and how they work, as well as some general information about solar energy.
+
+Not enough information in the provided context.
+--------------------------------------------------------------------------------
